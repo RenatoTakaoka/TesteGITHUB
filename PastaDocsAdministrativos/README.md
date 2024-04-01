@@ -1,2 +1,2 @@
-# Coloque nesta pasta Planos, O~çamentos, Status report e Controles administrativos do projeto
+# Coloque nesta pasta Planos, Orçamentos, Status report e Controles administrativos do projeto
 
